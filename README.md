@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for Github tutorial
 
 Editing README.md file for practising git
+
+Adding line to check on git pull
